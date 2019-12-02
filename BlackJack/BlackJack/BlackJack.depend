@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1559554047 source:c:\users\ivanb\desktop\blackjack\blackjack\main.cpp
+	<iostream>
+	"card.h"
+	"deck.h"
+	"player.h"
+	"blackjack.h"
+	<algorithm>
+	<random>
+	<time.h>
+
+1559139002 source:c:\users\ivanb\desktop\blackjack\blackjack\card.cpp
+	"card.h"
+
+1558436958 c:\users\ivanb\desktop\blackjack\blackjack\card.h
+	<string>
+	<iostream>
+
+1559576523 c:\users\ivanb\desktop\blackjack\blackjack\deck.h
+	<vector>
+	"card.h"
+	<iostream>
+	<algorithm>
+	<random>
+
+1559138662 c:\users\ivanb\desktop\blackjack\blackjack\player.h
+	"card.h"
+	<vector>
+
+1559554180 source:c:\users\ivanb\desktop\blackjack\blackjack\player.cpp
+	"player.h"
+
+1558436783 source:c:\users\ivanb\desktop\blackjack\blackjack\deck.cpp
+	"deck.h"
+	<algorithm>
+	<time.h>
+	<chrono>
+
+1559554629 source:c:\users\ivanb\desktop\blackjack\blackjack\blackjack.cpp
+	"blackjack.h"
+
+1559576523 c:\users\ivanb\desktop\blackjack\blackjack\blackjack.h
+	"deck.h"
+	"player.h"
+	"card.h"
+
